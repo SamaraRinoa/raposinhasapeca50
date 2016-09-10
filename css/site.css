@@ -4,6 +4,9 @@
   padding: 152px;
   color: white;
 }
+*{
+  font-family: Garamond;
+}
 
 li, h4, h5, a{
   color: #74224C; 
