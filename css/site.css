@@ -65,7 +65,8 @@ body {
 
 .sidebar {
   font-size: 90%;
-  line-height: normal
+  line-height: normal;
+  color: #74224C;
 }
 
 .toc ul  {
