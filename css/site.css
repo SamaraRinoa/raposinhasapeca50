@@ -4,8 +4,13 @@
   padding: 152px;
   color: white;
 }
+
 *{
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h4{
+  font-style: bold;
 }
 
 li, h4, h5, a{
