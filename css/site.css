@@ -5,8 +5,12 @@
   color: white;
 }
 
-li, h4, h5{
+li, h4{
   color: #9C27B0; 
+}
+
+h5{
+  color: #FFC107;
 }
 
 body {
